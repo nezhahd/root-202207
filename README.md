@@ -4,6 +4,11 @@
 ```
 wget -N https://gitlab.com/rwkgyg/vpsroot/raw/main/root.sh && bash root.sh
 ```
+本地GITHUB
+```
+wget -N https://github.com/nezhahd/root-202207/raw/main/root.sh && bash root.sh
+```
+
 
 相关说明请查看[甬哥博客](https://ygkkk.blogspot.com/2022/02/githubvpsrootrooteuservhax.html)
 
